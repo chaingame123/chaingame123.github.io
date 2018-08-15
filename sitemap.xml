@@ -1,0 +1,7 @@
+<!DOCTYPE html><html style="font-size: 100px"><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=renderer content=webkit><meta http-equiv=X-UA-Compatible content="ie=edge"><link rel="shortcut icon" href=../static/image/mobile/ite.ico><link rel=stylesheet type=text/css href=./static/css/reset.css><title>ite-EOSITE</title><meta content=ite,EOSITE name=keywords><meta content=ite-EOSITE name=description><meta content=index,follow name=robots><meta content=index,follow name=GOOGLEBOT><meta content=EOSITE name=Author><script async src="https://www.googletagmanager.com/gtag/js?id=UA-123332115-1"></script><script>window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'UA-123332115-1');</script><link href=/static/css/app.0882f7a0c46071123294a0282dc70ed0.css rel=stylesheet></head><body><div id=app></div><footer style="position: absolute; bottom: 0;"><a href=http://ite.zone/sitemap.html title=ite target=_blank><strong>ite</strong></a> <a href=http://ite.zone/sitemap.xml title=ite target=_blank><strong>ite</strong></a></footer><script type=text/javascript src=/static/js/manifest.b3f7341610f5cc847ea1.js></script><script type=text/javascript src=/static/js/vendor.73070dc8599180b07dd4.js></script><script type=text/javascript src=/static/js/app.f6de279137ac5571de46.js></script></body></html>
